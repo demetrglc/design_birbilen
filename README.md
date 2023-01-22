@@ -1,16 +1,2 @@
-# gbbirbilenproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# View
+![Adsız](https://user-images.githubusercontent.com/77542723/213935458-0a75a1c8-c8e1-4c13-86ef-08a33140cec8.png)
